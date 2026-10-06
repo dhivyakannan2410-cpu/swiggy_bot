@@ -1,0 +1,7 @@
+google-play-scraper
+streamlit
+google-generativeai
+chromadb
+sentence-transformers
+pandas
+python-dotenv
